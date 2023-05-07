@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aojo247
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning Power Query and Python
+- 🌱 I’m currently learning PySpark and AWS Lambda w/ Python
 - 💞️ I’m looking to collaborate on any Python-related projects
 - 📫 How to reach me .......
 <!---
